@@ -5,8 +5,8 @@ Check out my undergraduate IEEE paper: https://ieeexplore.ieee.org/document/9649
 - 🐸☕️ I have seen that solutions created through a robotics-based approach coupled with a good representation of the world around the camera (classical computer vision and bayesian statistics) can outperform even the most modern machine learning-based perception solutions, but I have worked to design and implement both and even hybrid solutions in the industry.
 - 🌱 I’m currently learning web design, but continue to read literature on vision and artificial intelligence after 6 years of studying.
 - 💞️ I’m looking to collaborate with and learn more from those experienced with web app development, I'm looking to lead larger software teams, solve difficult perception problems, pursue start up ideas, or new career opportunities.
-- 📫 You can reach me @ kenneth.weber1@ontariotechu.net
-
+- 📫 You can reach me @ kenneth.weber1@ontariotechu.net, or more casually on linkedin @ https://www.linkedin.com/in/kenneth-j-weber/
+- Finally, if you're a bit technical and want to understand my programming style and the kind of work I enjoy doing, check out my public demo, written entirely by me: https://github.com/kj-weber/Kens-Computer-Vision-Demo
 <!---
 kj-weber/kj-weber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
