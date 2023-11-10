@@ -8,8 +8,9 @@
 - General Motors (Apr 2016 - Nov 2023)
 - PYTHON | ROBOTICS  |  COMPUTER VISION  |  OPENCV 
 - PYTHON | WEB APP   |  Full Stack Engineer | DJANGO
-- Eligble for Canadian and American roles as Mechanical Engineer / Electrical Engineer  / Controls Engineer  / System Engineer / Robotics Engineer  / Simulation Engineer /
-- Mechatronics Engineer / Software Engineer / Computer Vision Engineer  /  Software Developer (Computer Vision) / Quality Engineer / Systems Quality Engineer / Calibration Engineer
+- Eligble for Canadian and American roles as Mechanical Engineer / Electrical Engineer  / Controls Engineer  / System Engineer /
+- Robotics Engineer  / Simulation Engineer / Mechatronics Engineer / Software Engineer / Computer Vision Engineer  /
+- Software Developer (Computer Vision) / Quality Engineer / Systems Quality Engineer / Calibration Engineer
 - Only interviewing for SR Engineer roles.
 - DEMO (100% MY PROCESS AND CODE):
           https://github.com/kj-weber/Kens-Computer-Vision-Demo
