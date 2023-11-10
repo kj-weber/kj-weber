@@ -9,4 +9,5 @@
 - MECHANICAL ENGINEER / ELECTRICAL ENGINEER / CONTROLS ENGINEER / SYSTEM ENGINEER / ROBOTICS ENGINEER / SIMULATION ENGINEER / MECHATRONICS ENGINEER / SOFTWARE ENGINEER / SOFTWARE DEVELOPER (Computer Vision)
 - DEMO (100% MY PROCESS AND CODE):
           https://github.com/kj-weber/Kens-Computer-Vision-Demo
+  
 *All code on this github was developed on PERSONAL TIME, without any re-use of concepts, structure, or source files from my professional roles.*
