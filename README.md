@@ -1,6 +1,6 @@
-===============================================
+=========
 🅦🅔🅑🅔🅡
-===============================================
+=========
 - Kenneth J Weber (1998)
 - Canadian Mechatronics Engineer working in the United States of America
 - Apple Inc (Nov 2023 -    )
