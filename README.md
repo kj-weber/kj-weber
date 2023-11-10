@@ -6,8 +6,8 @@
 - Canadian Mechatronics Engineer working in the United States of America
 - Apple Inc (Nov 2023 -    )
 - General Motors (Apr 2016 - Nov 2023)
-- PYTHON | ROBOTICS  |  COMPUTER VISION  |  OPENCV 
-- PYTHON | WEB APP   |  Full Stack Engineer | DJANGO
+- ROBOTICS  |  COMPUTER VISION     |  OPENCV | PYTHON / C++
+- Web App   |  Full Stack Engineer | Django  | Python / JS / HTML
 - Eligble for Canadian and American roles as Mechanical Engineer / Electrical Engineer  / Controls Engineer  / System Engineer /
 - Robotics Engineer  / Simulation Engineer / Mechatronics Engineer / Software Engineer / Computer Vision Engineer  /
 - Software Developer (Computer Vision) / Quality Engineer / Systems Quality Engineer / Calibration Engineer
