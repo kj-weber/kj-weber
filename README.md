@@ -26,16 +26,16 @@ Ken holds a degree in Mechatronics Engineering, with industry experience in deri
 - Ken wants to master a physical craft, such as machining, not by running to the largest "get rich quick" scheme in the place, _but by learning the manual knee mill and lathe by doing_, first in the safety of a structured college class, and then spending evenings on Steam's milling simulator. 
 
 ## Software design and modelling
-- Ken brings this fundamentals-first approach to software development, believing the best way to understand a common algorithm or function is to accidentally write it yourself out of need. 
+- Ken brings this fundamentals-first approach to software development, believing the best way to understand a common algorithm or function is to accidentally write it yourself out of need.
 - Both professionally and in his free time, Ken maintains a meticulously curated, iterated upon, and debated, virtual representations of the hardware and software components, systems, and many products he has shipped.
-- He frequently modifies and reverts portions of these systems just to satisfy his sense of curiosity, or answer an interesting nuanced question. 
+- He frequently modifies and reverts portions of these systems just to satisfy his sense of curiosity, or answer an interesting nuanced question.
 - He views software engineering and technology as the consensus of experts within an industry, however rarely that occurs.
-- Ken believes the most noble cause a developer can undertake is to single out an unoptimized, tiny critical link from the long, messy, and delicate chain of software state of the art, and to be able to notice its flaw, and to ultimately decide to upgrade-in-place, for the benefit of those following in our footsteps later. 
-- Ken has experienced first hand the blinding brilliance of some of the brightest minds of the planet right now, as well as how an incorrect assumption from an overconfident engineer can accidentally close doors to the true ideal solution. 
-- This year Ken seeks to destroy the false assumptions missed by brilliants due to being out on their own at their time, preferably up to the top of likes like Newton and Pierre-Simon de Laplace. After all, we have the benefit of their work for free, why shouldn't we all seek to improve it and make it more accessible?
+- Ken believes the most noble cause a developer can undertake is to single out an unoptimized, tiny critical link from the long, messy, and delicate chain of software state of the art, to be able to notice its flaw, and to ultimately decide to upgrade-in-place, for the benefit of those following in our footsteps later.
+- Ken has experienced first hand the blinding brilliance of some of the brightest minds of the planet right now, as well as how an incorrect assumption from an overconfident engineer can accidentally close doors to the true ideal solution.
+- This year Ken seeks to challenge the false assumptions missed by past brilliants who were unable to show much a capable peer to reason with. Preferably up to the likes of Newton and Pierre-Simon de Laplace. After all, we have the benefit of their work for free, why shouldn't we all seek to improve it and make it more accessible?
 
 ## Current work
 
-- Ken is prohibited from discussing details of his technical work at Apple, but makes it clear that he is cheering on the tech industry from its very own labs to the benefit of the company, and of course cheering for others, from the sidelines.
-
-*I adhere to my contract that all concepts, structure, or source files that appear here do not relate or share similarities to my professional work, and were developed while under the employment of no one :)*
+- Ken is prohibited from discussing details his employment, but makes it clear that he is cheering on the tech industry from within its very own labs to the benefit of the company, and of course cheering for others, from the sidelines.
+- *I adhere to my contract that all concepts, structure, or source files that appear here do not relate or share similarities to my professional work, and were developed while under the employment of no one :) 
+- * I am not authoized to make statements on behalf of Apple* and *all viewpoints expressed on social media are my own*
