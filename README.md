@@ -1,41 +1,22 @@
-# *Kenneth J Weber*
-- Canadian Mechatronics Engineer working in USA consumer electronics after 8 years of computer vision technical work
-- Public profile: https://www.linkedin.com/in/kenneth-j-weber/
-- Custom application installer and computer vision teaser demo*:
-          https://github.com/kj-weber/Kens-Computer-Vision-Demo
+# Kenneth J. Weber
 
-# Background
-Ken holds a degree in Mechatronics Engineering, with industry experience in deriving device behavior from physics, including electrical troubleshooting, electrical design, mechanical design, and general applied robotics and sensors expertise. 
-- He spent five years in the automotive R&D industry working on camera-based perception and applied machine learning.
-- For the past three years Ken has worked in the wearable technologies industry.
+Can we tune this prototype into a product, or do we need a different design? I like building the smallest model, test bench, or experiment that can answer that question while there’s still time to change the design.
 
-# Skills
-- Python programming: very strong
-- Computer vision and image processing: very strong
-- Desktop interface design with PyQt: strong
-- Web development with Django
-- Languages and libraries: Python, C++, C#, OpenCV, PyTorch, OpenGL
-- Design thinking, and being a fly on the wall for years, and now a contributor, to advanced tech portfolio planning.
+## Computer vision demo
 
-# Interests
-## Hardware design and testing
-- Ken is drawn to hardware and physical engineering: motor control, optics and precision fabrication. 
-- He is interested in robotics, especially computer vision as input to robotic systems.
-- Ken enjoys strategy games, and complex simulations in Unity, C, Blender, and or ROS. 
-- He enjoys discussing and analyzing personal finances. 
-- Ken wants to master a physical craft, such as machining, not by running to the largest "get rich quick" scheme in the place, _but by learning the manual knee mill and lathe by doing_, first in the safety of a structured college class, and then spending evenings on Steam's milling simulator. 
+[Repository](https://github.com/kj-weber/Kens-Computer-Vision-Demo) · [Pipeline source](https://github.com/kj-weber/Kens-Computer-Vision-Demo/blob/master/steady_core.py)
 
-## Software design and modelling
-- Ken brings this fundamentals-first approach to software development, believing the best way to understand a common algorithm or function is to accidentally write it yourself out of need.
-- Both professionally and in his free time, Ken maintains a meticulously curated, iterated upon, and debated, virtual representations of the hardware and software components, systems, and many products he has shipped.
-- He frequently modifies and reverts portions of these systems just to satisfy his sense of curiosity, or answer an interesting nuanced question.
-- He views software engineering and technology as the consensus of experts within an industry, however rarely that occurs.
-- Ken believes the most noble cause a developer can undertake is to single out an unoptimized, tiny critical link from the long, messy, and delicate chain of software state of the art, to be able to notice its flaw, and to ultimately decide to upgrade-in-place, for the benefit of those following in our footsteps later.
-- Ken has experienced first hand the blinding brilliance of some of the brightest minds of the planet right now, as well as how an incorrect assumption from an overconfident engineer can accidentally close doors to the true ideal solution.
-- This year Ken seeks to challenge the false assumptions missed by past brilliants who were unable to show much a capable peer to reason with. Preferably up to the likes of Newton and Pierre-Simon de Laplace. After all, we have the benefit of their work for free, why shouldn't we all seek to improve it and make it more accessible?
+In this Python demo, camera capture, feature processing, and display run in separate processes. After rendering a frame, the display process clears the backlog in its input queue. For a live preview, I’d rather drop frames than give someone a faithfully rendered view of what happened a second ago.
 
-## Current work
+## How I build software
 
-- Ken is prohibited from discussing details his employment, but makes it clear that he is cheering on the tech industry from within its very own labs to the benefit of the company, and of course cheering for others, from the sidelines.
-- *I adhere to my contract that all concepts, structure, or source files that appear here do not relate or share similarities to my professional work, and were developed while under the employment of no one :) 
-- * I am not authoized to make statements on behalf of Apple* and *all viewpoints expressed on social media are my own*
+Sometimes I write a small version of an algorithm before reaching for a library. Usually the library wins. The exercise is how I find out which assumptions I’m handing over to it. It’s also why I wanted to learn on a manual mill and lathe: I like understanding what I’m asking the machine to do.
+
+I think coding agents will make it cheaper to try a design. Deciding whether the design worked is still engineering. When an agent says it’s done, I want to be able to rerun the task from the same starting state and check the files or behavior it actually changed. I don’t need two runs to take the same route. I need a check that can tell me whether both got to the right place.
+
+I have a soft spot for the small failure everyone has learned to work around. If I can reproduce it and fix it in place, I’d rather leave the next engineer a test than another caveat in the docs.
+
+## Paper and patents
+
+- [Multi-directional image stitching for mobile robotics](https://ieeexplore.ieee.org/document/9649791) · IEEE, 2021 · first author
+- Co-inventor on three GM-assigned U.S. patents: [12,293,542](https://patents.justia.com/patent/12293542), [12,715,255](https://patents.justia.com/patent/12715255), [10,953,712](https://patents.google.com/patent/US10953712B2/en)
